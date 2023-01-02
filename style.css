@@ -1,0 +1,66 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+  margin: 0px;
+}
+
+#main {
+  width: 540px;
+  margin: 64px auto 64px;
+}
+
+h1 {
+  font-family:'Dosis', sans-serif;
+  font-size: 32px;
+  line-height: 40.45px;
+  font-weight: 500;
+  margin-bottom: 16px;
+  color: #3F3D56;
+}
+
+h1 span {
+  font-weight:bold;
+  color: #EE24FF;
+}
+
+p {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+  color: #828282;
+}
+
+p span {
+  font-weight: bold;
+  color: #3F3D56;
+}
+
+.texto {
+  margin-top: 32px;
+  margin-bottom: 64px;
+}
+
+#footer {
+  color: #3F3D56;
+  font-size: 15px;
+  line-height: 22px;
+  width: 100%;
+}
+
+#footer a + a { 
+  margin-left: 42px;
+  color: #3F3D56;
+}
+
+.line {
+  width: 391px;
+  height: 0px;
+  margin: 0px auto 16px;
+  border: 1px solid #ECEFF2;
+}
+
+.contatos {
+  margin-bottom: 40.83px;
+}
